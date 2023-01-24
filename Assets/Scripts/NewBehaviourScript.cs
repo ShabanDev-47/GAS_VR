@@ -7,7 +7,9 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Git_Test m = gameObject.AddComponent<Git_Test>();
+        
+        Git_Test m = 
+            new Git_Test();
         print(m.Experience);
         m.Experience++;
         m.Experience++;
