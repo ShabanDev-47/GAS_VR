@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class Git_Test : MonoBehaviour
 {
+   
+    public virtual void Talk()
+    {
+        print("Hello");
+    }
     private int experience = 5;
     public int Experience
     {
