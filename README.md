@@ -1,2 +1,2 @@
 # Gas-StationVR
- Personal / Commercial project for January 2023
+ Personal project for january 2023
